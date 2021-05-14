@@ -1,0 +1,5 @@
+rootProject.name = "SkinSupportDesign"
+include ':app'
+include ':androidx:skin-support-appcompat'
+include ':androidx:skin-support-design'
+include ':androidx:skin-support'
